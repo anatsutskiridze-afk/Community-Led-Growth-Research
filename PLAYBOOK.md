@@ -339,7 +339,5 @@ SaaS teams.
 
 ---
 
-*Playbook compiled by: [Your Name]*  
-*Course: [Your Course Name]*  
 *Date: 2025-04-28*  
 *All sources linked in /research/sources.md*
