@@ -17,7 +17,7 @@ Every recommendation is sourced from a practitioner who has actually done it.
 
 Community-led growth works because trust compounds. In the age when everyone can build
 the same product with AI, the real differentiator is relationships.
-(Source: Brendan Beh, LinkedIn, 2025 — "When everyone can ship, the real
+(Source: Brendan Beh, LinkedIn, 2025: "When everyone can ship, the real
 constraints become trust and distribution. And the only place trust compounds
 at scale is inside communities.")
 
@@ -25,13 +25,13 @@ at scale is inside communities.")
 
 ## The Playbook
 
-### Phase 1 — Don't Call It Community
+### Phase 1 - Don't Call It Community
 
 When pitching community-led growth internally to executives who are skeptical, we need 
 to avoid using the word "community" entirely. Instead, frame it around outcomes
 they already understand, such as: product feedback loops, user-generated content, and
 ambassador-style brand amplification.
-(Source: Patrick Woods, LinkedIn, 2025 — "We're increasingly not saying the
+(Source: Patrick Woods, LinkedIn, 2025: "We're increasingly not saying the
 C Word at all, but rather focusing on the powerful outcomes that emerge from
 communities.")
 
@@ -40,7 +40,7 @@ Once you get the budget and show results, the community builds itself.
 
 ---
 
-### Phase 2 — Build Around a Real Problem, Not Your Brand
+### Phase 2 - Build Around a Real Problem, Not Your Brand
 
 The most common mistake is building a brand community instead of a problem
 community. People don't gather around your logo — they gather around shared
@@ -48,7 +48,7 @@ difficulties.
 
 Do not acquire existing communities or rebrand them. Support them instead.
 The individuality of each community is what makes the network valuable.
-(Source: Brendan Beh, LinkedIn, 2025 — "We don't acquire communities, nor
+(Source: Brendan Beh, LinkedIn, 2025: "We don't acquire communities, nor
 do we rebrand them. The individuality of each community is exactly what makes
 the network valuable.")
 
@@ -58,7 +58,7 @@ community around that problem. Your product becomes the natural solution.
 
 ---
 
-### Phase 3 — Warm Intros Over Cold Outreach
+### Phase 3 - Warm Intros Over Cold Outreach
 
 Data shows that meetings sourced from referrals and social represent only
 12% of total meetings for most B2B sales teams, yet they drive 33% of
@@ -79,7 +79,7 @@ The reason companies don't systematize warm intros:
 
 ---
 
-### Phase 4 — Build in Public with Real Numbers
+### Phase 4 - Build in Public with Real Numbers
 
 The most effective community content shares specific metrics, failures, and
 lessons. Lloyed Lobo's book sold 7,000 copies in its first few days partly
@@ -99,46 +99,46 @@ faster-growing communities than those that don't.
 
 ---
 
-### Phase 5 — Structure Your Community with the Orbit Model
+### Phase 5 - Structure Your Community with the Orbit Model
 
 Use the Orbit Model (developed by Patrick Woods at Orbit) to segment your
 community members by engagement level rather than treating everyone the same.
 
 The four levels:
-- **Observers** — aware of you, however is not yet engaged
-- **Participants** — occasionally engages
-- **Contributors** — regularly adds value
-- **Ambassadors** — evangelizes on your behalf
+- **Observers** - aware of you, however is not yet engaged
+- **Participants** - occasionally engages
+- **Contributors** - regularly adds value
+- **Ambassadors** - evangelizes on your behalf
 
 **SOP:**
 1. Map your existing users to these four levels
 2. Create specific programs for each level (not one-size-fits-all)
-3. Focus energy on moving Participants to Contributors — that's the highest
+3. Focus energy on moving Participants to Contributors, that's the highest
    leverage transition
-4. Never try to turn Observers into Ambassadors directly — it doesn't work
+4. Never try to turn Observers into Ambassadors directly, it doesn't work
 
 ---
 
-### Phase 6 — Use Developer Relations as a Community Engine
+### Phase 6 - Use Developer Relations as a Community Engine
 
 For technical B2B SaaS products, Developer Relations is one of the most
 underutilized community-led growth levers. DevRel creates content, runs
 office hours, hosts webinars, and builds the documentation that turns
 users into advocates.
-(Source: Mary Thengvall, Camunda Migration Taskforce, LinkedIn 2025 —
+(Source: Mary Thengvall, Camunda Migration Taskforce, LinkedIn 2025
 published blog posts, hosted webinars, launched office hours series,
 built migration landing page — all within 3 weeks)
 
 **SOP for DevRel-driven community:**
 1. Identify the top 3 technical problems your users have to deal with 
 2. Create one piece of content per problem (blog post, video, guide)
-3. Host a live office hours session monthly — record it
+3. Host a live office hours session monthly
 4. Build a resource landing page that aggregates everything
 5. Ask the community what to create next
 
 ---
 
-### Phase 7 — Measure What Actually Matters
+### Phase 7 - Measure What Actually Matters
 
 Use the SPACES model (developed by CMX) to decide what to measure based
 on what type of community you're building:
@@ -168,18 +168,18 @@ Success (retention of community members vs non-members).
 **Brendan Beh** argues strongly against brand-first communities. He says
 companies that build a brand on top of grassroots communities extract value
 upward, give nothing back, and eventually kill the culture. He built AI.SEA
-specifically to avoid this — supporting existing communities rather than
+specifically to avoid this, supporting existing communities rather than
 absorbing them.
 
 **Lloyed Lobo** argues that building a strong brand IS the community strategy.
 His 13 rules include making your brand unforgettable and turning community into
-a cult-like following — language that implies the brand is central, not
+a cult-like following, language that implies the brand is central, not
 secondary.
 
 **My take:** Beh is right for early-stage companies and ecosystems with
 existing communities. Lobo is right for companies building from scratch with
 no existing community to tap into. The mistake is applying Lobo's approach
-when Beh's situation applies — absorbing existing communities rather than
+when Beh's situation applies. absorbing existing communities rather than
 earning trust within them.
 
 ---
@@ -188,23 +188,23 @@ earning trust within them.
 
 **Mac Reddin** argues that the best sellers lean away from spreadsheets and
 input-driven models toward human and relationship models. He says this is
-harder to manage and less predictable — but that's the point.
+harder to manage and less predictable, but that's the point.
 
 **Mac Reddin** (in a different post, contradicting himself slightly) also
-argues that warm intros need systems and training to scale — that without
+argues that warm intros need systems and training to scale, that without
 a formal system, 55% of sales leaders fail to capture referral pipeline.
 
 **My take:** This is actually the same person disagreeing with himself, which
 is worth noting. The resolution is: relationships are the strategy, but
 systems are the execution layer. You need both. Pure relationship-selling
 doesn't scale. Pure systems-selling doesn't convert. The playbook above tries
-to encode this — systematize the ask, keep the relationship human.
+to encode the following- systematize the ask, keep the relationship human.
 
 ---
 
 ### 3. Community as growth channel vs community as product
 
-**Patrick Woods and the Orbit Model** treat community as a growth channel —
+**Patrick Woods and the Orbit Model** treat community as a growth channel,
 something that feeds your pipeline, reduces churn, and amplifies your brand.
 The community serves the business.
 
